@@ -1,6 +1,5 @@
 # Hello JavaFX multiple-language and Maven (Example Project)
-Simple "Hello, world!" example showing a ready to roll JavaFX project using multiple-language support is for those who need some more __exotic__ language (controls_be_BY.properties, controls_ru.properties etc.). You can create your own based on examples (controls_de.properties, controls_es.properties, controls_fr.properties, controls_it.properties, controls_ja.properties, controls_ko.properties, 
-controls_pt_BR.properties, controls_sv.properties, controls_zh_CN.properties, controls_zh_TW.properties, controls-nt.properties) found in com/sun/javafx/scene/control/skin/resources/ in `jxfrt.jar` provided with JRE. 
+Simple "Hello, world!" example showing a ready to roll JavaFX project using multiple-language support is for those who need some more *exotic* language *(controls_be_BY.properties, controls_ru.properties etc.)*. You can create your own based on examples *(controls_de.properties, controls_es.properties, controls_fr.properties, controls_it.properties, controls_ja.properties, controls_ko.properties, controls_pt_BR.properties, controls_sv.properties, controls_zh_CN.properties, controls_zh_TW.properties, controls-nt.properties)* found in com/sun/javafx/scene/control/skin/resources/ in `jxfrt.jar` provided with JRE. 
 This can be downloaded and used as a starter template for your own Maven JavaFX projects.
 
 ## Get the Example Code
@@ -43,10 +42,12 @@ If you don't have a company name, use a nickname or working name for yourself, e
 
 ## Screenshots
 
-Belarusian language:
+- Belarusian language:
+
 <a href="https://github.com/mcka-dev/javafx-internationalization-maven-example/blob/master/screenshots/be_BY.png"><img src="https://github.com/mcka-dev/javafx-internationalization-maven-example/blob/master/screenshots/be_BY.png" alt="JavaFX: be-BY" title="JavaFX: be-BY"></a>
 
-Russian language:
+- Russian language:
+
 <a href="https://github.com/mcka-dev/javafx-internationalization-maven-example/blob/master/screenshots/ru_RU.png"><img src="https://github.com/mcka-dev/javafx-internationalization-maven-example/blob/master/screenshots/ru_RU.png" alt="JavaFX: ru-RU" title="JavaFX: ru-RU"></a>
 
 ## Support
